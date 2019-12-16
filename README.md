@@ -1,0 +1,2 @@
+# Kernel_SVM_Classification
+Implementing Kernel SVM with Scikit-Learn is similar to the simple SVM.To train the kernel SVM, we use the same SVC class of the Scikit-Learn's svm library. The difference lies in the value for the kernel parameter of the SVC class. In the case of the simple SVM we used "linear" as the value for the kernel parameter. However, for kernel SVM you can use Gaussian, polynomial, sigmoid, or computable kernel.
